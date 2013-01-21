@@ -21,3 +21,5 @@ then
 		echo -e $str
 	done
 fi
+
+exit 0 # Success
